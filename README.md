@@ -1,4 +1,4 @@
-# codia_demo_flutter
+# virtual-tryon-footwear
 
 A new Flutter project.
 
