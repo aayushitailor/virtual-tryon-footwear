@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "df865f187cb814ed42e400feb32939202e5703ad75753d9f50bcf7d1f4b4c45b"
+build_start_time: [1701809605, 15279000]
+build_end_time: [1701809612, 154298000]
+inputs:
+  "/Users/aayushitailor/Downloads/CodiaDemoFlutter-20231129123716/macos/Flutter/GeneratedPluginRegistrant.swift": [1701809587, 438517449]
+  "/Users/aayushitailor/Downloads/CodiaDemoFlutter-20231129123716/macos/Runner/AppDelegate.swift": [312768000, 0]
+  "/Users/aayushitailor/Downloads/CodiaDemoFlutter-20231129123716/macos/Runner/MainFlutterWindow.swift": [312768000, 0]
